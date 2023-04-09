@@ -1,1 +1,2 @@
 variable "yemi" {}
+variable "food" {}
