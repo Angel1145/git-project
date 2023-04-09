@@ -1,3 +1,6 @@
 resource "aws_iam_user" "dev-user" {
- name = "yemmy" 
+ name = "yemmy"  
+}
+resource "aws_iam_user" "david" {
+  name = "yummy"
 }
